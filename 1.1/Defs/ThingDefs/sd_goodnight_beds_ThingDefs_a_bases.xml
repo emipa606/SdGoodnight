@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+ <!--================================ Abstract bases ======================================-->
+
+  <ThingDef Name="SDBuildingBase" Abstract="True">
+    <category>Building</category>
+    <thingClass>Building</thingClass>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+		<statBases>
+			<SellPriceFactor>0.70</SellPriceFactor>
+		</statBases>
+  </ThingDef>
+
+  <ThingDef Name="SDGoodnightBedBase" ParentName="BedBase" Abstract="True">
+	<defName>sd_basebed</defName>
+    <thingClass>Building_Bed</thingClass>
+    <comps>
+		<li Class="CompProperties_AffectedByFacilities">
+			<linkableFacilities>
+				<li>VitalsMonitor</li> <!-- vanilla vitals monitor -->
+				<li>EndTable</li>
+				<li>Dresser</li>
+			</linkableFacilities>
+		</li>
+		<li Class="CompProperties_Art">
+			<nameMaker>NamerArtFurniture</nameMaker>
+			<descriptionMaker>ArtDescription_Furniture</descriptionMaker>
+			<minQualityForArtistic>Excellent</minQualityForArtistic>
+		</li>
+    </comps>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+	<rotatable>true</rotatable>
+	<tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+	<altitudeLayer>Building</altitudeLayer>
+	<building>
+      <bed_showSleeperBody>False</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+    </building>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>60</pathCost>
+    <leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+  </ThingDef>
+  
+</Defs>
