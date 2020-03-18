@@ -18,7 +18,7 @@
 		</statBases>
   </ThingDef>
 
-  <ThingDef Name="SDGoodnightBedBase" ParentName="BedBase" Abstract="True">
+  <ThingDef Name="SDGoodnightBedBase" ParentName="BedWithQualityBase" Abstract="True">
 	<defName>sd_basebed</defName>
     <thingClass>Building_Bed</thingClass>
     <comps>
