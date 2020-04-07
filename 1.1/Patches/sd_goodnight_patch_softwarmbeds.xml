@@ -9,15 +9,13 @@
       <success>Always</success>
       <operations>
         <li Class="PatchOperationAdd">
-          <xpath>/Defs/ThingDef[@defName = "SDGoodnightBedBase"]</xpath>
+          <xpath>/Defs/ThingDef[@ParentName = "SDGoodnightBedBase"]/inspectorTabs</xpath>
           <value>
-            <inspectorTabs>
-              <li>SoftWarmBeds.ITab_Bedding</li>
-            </inspectorTabs>
+            <li>SoftWarmBeds.ITab_Bedding</li>
           </value>
         </li>
         <li Class="PatchOperationAdd">
-          <xpath>/Defs/ThingDef[@defName = "SDGoodnightBedBase"]/building</xpath>
+          <xpath>/Defs/ThingDef[@ParentName = "SDGoodnightBedBase"]/building</xpath>
           <value>
             <fixedStorageSettings>
               <filter>
@@ -36,7 +34,7 @@
           </value>
         </li>
         <li Class="PatchOperationAdd">
-          <xpath>/Defs/ThingDef[@defName = "SDGoodnightBedBase"]</xpath>
+          <xpath>/Defs/ThingDef[@ParentName = "SDGoodnightBedBase"]</xpath>
           <value>
             <tickerType>Normal</tickerType>
           </value>
@@ -60,19 +58,19 @@
           </value>
         </li>
         <li Class="PatchOperationReplace">
-          <xpath>/Defs/ThingDef[defName = "sd_*"]/statBases/BedRestEffectiveness</xpath>
+          <xpath>/Defs/ThingDef[@ParentName = "SDGoodnightBedBase"]/statBases/BedRestEffectiveness</xpath>
           <value>
             <BedRestEffectiveness>0.7</BedRestEffectiveness>
           </value>
         </li>
         <li Class="PatchOperationReplace">
-          <xpath>/Defs/ThingDef[defName = "sd_*"]/statBases/Comfort</xpath>
+          <xpath>/Defs/ThingDef[@ParentName = "SDGoodnightBedBase"]/statBases/Comfort</xpath>
           <value>
             <Comfort>0.3</Comfort>
           </value>
         </li>
         <li Class="PatchOperationAdd">
-          <xpath>/Defs/ThingDef[defName = "sd_*"]/statBases</xpath>
+          <xpath>/Defs/ThingDef[@ParentName = "SDGoodnightBedBase"]/statBases</xpath>
           <value>
             <BedStuffEffectMultiplierInsulation_Cold>0.5</BedStuffEffectMultiplierInsulation_Cold>
           </value>
