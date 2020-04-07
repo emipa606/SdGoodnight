@@ -4,6 +4,7 @@
   <!--================================ medieval Double bed ======================================-->
    
    
+   
   <ThingDef ParentName="SDGoodnightBedBase">
     <defName>sd_medieval_double_bed</defName>
     <label>medieval double bed</label>

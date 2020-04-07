@@ -6,7 +6,7 @@
       <li>[JPT] Soft Warm Beds</li>
     </mods>
     <match Class="PatchOperationSequence">
-      <success>Normal</success>
+      <success>Always</success>
       <operations>
         <li Class="PatchOperationAdd">
           <xpath>/Defs/ThingDef[@Name = "SDGoodnightBedBase"]/inspectorTabs</xpath>

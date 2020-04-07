@@ -43,10 +43,6 @@
       <li>Furniture</li>
     </tradeTags>
 	<altitudeLayer>Building</altitudeLayer>
-	<building>
-      <bed_showSleeperBody>False</bed_showSleeperBody>
-      <bed_healPerDay>3</bed_healPerDay>
-    </building>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <fillPercent>0.4</fillPercent>
     <pathCost>60</pathCost>
