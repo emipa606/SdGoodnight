@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  
   <!--================================ medieval Double bed ======================================-->
-   
-   
-   
   <ThingDef ParentName="SDGoodnightBedBase">
     <defName>sd_medieval_double_bed</defName>
     <label>medieval double bed</label>
@@ -12,7 +8,7 @@
     <graphicData>
       <texPath>sd_goodnight/medieval/double/sd_goodnight_medieval_double_bed</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-	  <shaderType>CutoutComplex</shaderType>
+      <shaderType>CutoutComplex</shaderType>
       <drawSize>(4,4)</drawSize>
       <damageData>
         <rect>(0,0.05,2,1.95)</rect>
@@ -22,25 +18,24 @@
       <MaxHitPoints>200</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <WorkToBuild>2000</WorkToBuild>
-	  <Mass>90</Mass>
+      <Mass>90</Mass>
       <Beauty>10</Beauty>
       <BedRestEffectiveness>1.1</BedRestEffectiveness>
       <Comfort>0.80</Comfort>
       <ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
     </statBases>
     <size>(2,2)</size>
-	<stuffCategories>
+    <stuffCategories>
       <li>Fabric</li>
       <li>Leathery</li>
     </stuffCategories>
     <costStuffCount>50</costStuffCount>
     <costList>
-		<WoodLog>50</WoodLog>
+      <WoodLog>50</WoodLog>
     </costList>
-	<researchPrerequisites>
-		<li>sd_goodnight_research_medieval_beds</li>
-	</researchPrerequisites>
-	<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>sd_goodnight_research_medieval_beds</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
   </ThingDef>
-  
 </Defs>

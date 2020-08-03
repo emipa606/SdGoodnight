@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[sd] Goodnight (Continued)</name>
-    <packageId>Mlie.SdGoodnight</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/SdGoodnight</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter>
-		<li>JPT.SoftWarmBeds</li>
-	</loadAfter>
-	<description>Update of sulusdacors mod for RimWorld 1.1
+  <packageId>Mlie.SdGoodnight</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/SdGoodnight</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter>
+    <li>JPT.SoftWarmBeds</li>
+  </loadAfter>
+  <description>Update of sulusdacors mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=763943290
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
@@ -46,7 +47,7 @@ as of alpha 16, added mass and the heal per day ticker. mass is set to 50/60/70 
 
 research:
 
-- pretty straight forward: medieval beds -> industrial beds -> space beds
+- pretty straight forward: medieval beds -&gt; industrial beds -&gt; space beds
 - space beds need cryptosleep caskets from the vanilla game as additional prerequisite
 
 How to add other linkable buildings/furniture like the vitalsmonitor to the mod?:

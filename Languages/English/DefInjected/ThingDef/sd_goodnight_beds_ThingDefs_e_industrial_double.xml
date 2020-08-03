@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- hammock double -->
+
+  <sd_hammock_double.label>double hammock</sd_hammock_double.label>
+  <sd_hammock_double.description>A sling made of fabric used for sleeping. Fits two. The hammock is widly used by native tribes all over the Rimworlds. It's use to sleep save above the ground was recognized by explorers. Soon after it quickly became a must have in every ground crews inventory. Although on some planets it proved difficult to sleep in, due to low gravity. This lead to many funny storys of poeple floating away from their hammocks or getting entangled during the sleep.</sd_hammock_double.description>
+  <sd_hammock_double_Blueprint.label>double hammock (blueprint)</sd_hammock_double_Blueprint.label>
+  <sd_hammock_double_Blueprint_Install.label>double hammock (blueprint)</sd_hammock_double_Blueprint_Install.label>
+  <sd_hammock_double_Frame.label>double hammock (building)</sd_hammock_double_Frame.label>
+  <sd_hammock_double_Frame.description>A sling made of fabric used for sleeping. Fits two. The hammock is widly used by native tribes all over the Rimworlds. It's use to sleep save above the ground was recognized by explorers. Soon after it quickly became a must have in every ground crews inventory. Although on some planets it proved difficult to sleep in, due to low gravity. This lead to many funny storys of poeple floating away from their hammocks or getting entangled during the sleep.</sd_hammock_double_Frame.description>
+
+
+  <!-- industrial Double bed -->
+
+  <sd_industrial_double_bed.label>industrial double bed</sd_industrial_double_bed.label>
+  <sd_industrial_double_bed.description>A comfy bed. Fits two. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed desgin emerged.</sd_industrial_double_bed.description>
+  <sd_industrial_double_bed_Blueprint.label>industrial double bed (blueprint)</sd_industrial_double_bed_Blueprint.label>
+  <sd_industrial_double_bed_Blueprint_Install.label>industrial double bed (blueprint)</sd_industrial_double_bed_Blueprint_Install.label>
+  <sd_industrial_double_bed_Frame.label>industrial double bed (building)</sd_industrial_double_bed_Frame.label>
+  <sd_industrial_double_bed_Frame.description>A comfy bed. Fits two. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed desgin emerged.</sd_industrial_double_bed_Frame.description>
+
+
+  <!-- heart double bed -->
+
+  <sd_heart_double_bed.label>lover's double bed</sd_heart_double_bed.label>
+  <sd_heart_double_bed.description>A comfy bed for your lovers. Fits two. The Model "heart-3000" is very popular in the more develpoed Rimworlds. It's mostly bought by couples and owners of certain establishments. Due to the Rimworlds not being the safest place and in the face of a possible sudden death the delieveries to the colonies in the Rimworlds have doubled over the years. Followed by a "mysterious" increase in population on these planets.</sd_heart_double_bed.description>
+  <sd_heart_double_bed_Blueprint.label>lover's double bed (blueprint)</sd_heart_double_bed_Blueprint.label>
+  <sd_heart_double_bed_Blueprint_Install.label>lover's double bed (blueprint)</sd_heart_double_bed_Blueprint_Install.label>
+  <sd_heart_double_bed_Frame.label>lover's double bed (building)</sd_heart_double_bed_Frame.label>
+  <sd_heart_double_bed_Frame.description>A comfy bed for your lovers. Fits two. The Model "heart-3000" is very popular in the more develpoed Rimworlds. It's mostly bought by couples and owners of certain establishments. Due to the Rimworlds not being the safest place and in the face of a possible sudden death the delieveries to the colonies in the Rimworlds have doubled over the years. Followed by a "mysterious" increase in population on these planets.</sd_heart_double_bed_Frame.description>
+
+
+</LanguageData>

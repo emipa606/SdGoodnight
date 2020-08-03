@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abstract bases -->
+
+  <sd_basebed_Blueprint.label>sd_basebed (blueprint)</sd_basebed_Blueprint.label>
+  <sd_basebed_Blueprint_Install.label>sd_basebed (blueprint)</sd_basebed_Blueprint_Install.label>
+  <sd_basebed_Frame.label>sd_basebed (building)</sd_basebed_Frame.label>
+  <sd_basebed_Frame.description>sd_basebed</sd_basebed_Frame.description>
+
+
+</LanguageData>

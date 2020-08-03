@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  
   <!--================================ hammock double ======================================-->
-  
   <ThingDef ParentName="SDGoodnightBedBase">
     <defName>sd_hammock_double</defName>
     <label>double hammock</label>
@@ -10,7 +8,7 @@
     <graphicData>
       <texPath>sd_goodnight/industrial/double/sd_goodnight_industrial_hammock_double</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-	  <shaderType>CutoutComplex</shaderType>
+      <shaderType>CutoutComplex</shaderType>
       <drawSize>(4,4)</drawSize>
       <damageData>
         <rect>(0,0.05,2,1.95)</rect>
@@ -20,32 +18,30 @@
       <MaxHitPoints>200</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <WorkToBuild>2000</WorkToBuild>
-	  <Mass>100</Mass>
+      <Mass>100</Mass>
       <Beauty>10</Beauty>
       <BedRestEffectiveness>1.2</BedRestEffectiveness>
       <Comfort>0.80</Comfort>
       <ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
     </statBases>
     <size>(2,2)</size>
-	<stuffCategories>
+    <stuffCategories>
       <li>Fabric</li>
       <li>Leathery</li>
     </stuffCategories>
     <costStuffCount>75</costStuffCount>
     <costList>
-		<WoodLog>25</WoodLog>
+      <WoodLog>25</WoodLog>
     </costList>
-	<researchPrerequisites>
-		<li>sd_goodnight_research_industrial_beds</li>
-	</researchPrerequisites>
-	<building>
+    <researchPrerequisites>
+      <li>sd_goodnight_research_industrial_beds</li>
+    </researchPrerequisites>
+    <building>
       <bed_healPerDay>5</bed_healPerDay>
     </building>
-	<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
   </ThingDef>
-    
-    <!--================================ industrial Double bed ======================================-->
-  
+  <!--================================ industrial Double bed ======================================-->
   <ThingDef ParentName="SDGoodnightBedBase">
     <defName>sd_industrial_double_bed</defName>
     <label>industrial double bed</label>
@@ -53,7 +49,7 @@
     <graphicData>
       <texPath>sd_goodnight/industrial/double/sd_goodnight_industrial_double_bed</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-	  <shaderType>CutoutComplex</shaderType>
+      <shaderType>CutoutComplex</shaderType>
       <drawSize>(4,4)</drawSize>
       <damageData>
         <rect>(0,0.05,2,1.95)</rect>
@@ -63,33 +59,31 @@
       <MaxHitPoints>250</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <WorkToBuild>3000</WorkToBuild>
-	  <Mass>100</Mass>
+      <Mass>100</Mass>
       <Beauty>12</Beauty>
       <BedRestEffectiveness>1.2</BedRestEffectiveness>
       <Comfort>0.85</Comfort>
       <ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
     </statBases>
     <size>(2,2)</size>
-	<stuffCategories>
+    <stuffCategories>
       <li>Fabric</li>
       <li>Leathery</li>
     </stuffCategories>
     <costStuffCount>25</costStuffCount>
     <costList>
-		<Steel>100</Steel>
-		<ComponentIndustrial>2</ComponentIndustrial>
+      <Steel>100</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
-	<researchPrerequisites>
-		<li>sd_goodnight_research_industrial_beds</li>
-	</researchPrerequisites>
-	<building>
+    <researchPrerequisites>
+      <li>sd_goodnight_research_industrial_beds</li>
+    </researchPrerequisites>
+    <building>
       <bed_healPerDay>5</bed_healPerDay>
     </building>
-	<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
   </ThingDef>
-  
-    <!--================================ heart double bed ======================================-->
-  
+  <!--================================ heart double bed ======================================-->
   <ThingDef ParentName="SDGoodnightBedBase">
     <defName>sd_heart_double_bed</defName>
     <label>lover's double bed</label>
@@ -97,7 +91,7 @@
     <graphicData>
       <texPath>sd_goodnight/industrial/double/sd_goodnight_industrial_heart_double_bed</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-	  <shaderType>CutoutComplex</shaderType>
+      <shaderType>CutoutComplex</shaderType>
       <drawSize>(4,4)</drawSize>
       <damageData>
         <rect>(0,0.05,2,1.95)</rect>
@@ -107,29 +101,28 @@
       <MaxHitPoints>250</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <WorkToBuild>3000</WorkToBuild>
-	  <Mass>100</Mass>
+      <Mass>100</Mass>
       <Beauty>12</Beauty>
       <BedRestEffectiveness>1.2</BedRestEffectiveness>
       <Comfort>0.85</Comfort>
       <ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
     </statBases>
     <size>(2,2)</size>
-	<stuffCategories>
+    <stuffCategories>
       <li>Fabric</li>
       <li>Leathery</li>
     </stuffCategories>
     <costStuffCount>25</costStuffCount>
     <costList>
-		<Steel>100</Steel>
-		<ComponentIndustrial>2</ComponentIndustrial>
+      <Steel>100</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
-	<researchPrerequisites>
-		<li>sd_goodnight_research_industrial_beds</li>
-	</researchPrerequisites>
-	<building>
+    <researchPrerequisites>
+      <li>sd_goodnight_research_industrial_beds</li>
+    </researchPrerequisites>
+    <building>
       <bed_healPerDay>5</bed_healPerDay>
     </building>
-	<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
   </ThingDef>
-  
 </Defs>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[JPT] Soft Warm Beds</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[@Name = "SDGoodnightBedBase"]/inspectorTabs</xpath>
+          <value>
+            <li>SoftWarmBeds.ITab_Bedding</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[@Name = "SDGoodnightBedBase"]</xpath>
+          <value>
+            <statBases>
+              <BedStuffEffectMultiplierInsulation_Cold>0.5</BedStuffEffectMultiplierInsulation_Cold>
+            </statBases>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[@Name = "SDGoodnightBedBase"]</xpath>
+          <value>
+            <building>
+              <fixedStorageSettings>
+                <filter>
+                  <categories>
+                    <li>Textiles</li>
+                  </categories>
+                </filter>
+              </fixedStorageSettings>
+              <defaultStorageSettings>
+                <filter>
+                  <categories>
+                    <li>Textiles</li>
+                  </categories>
+                </filter>
+              </defaultStorageSettings>
+            </building>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[@Name = "SDGoodnightBedBase"]</xpath>
+          <value>
+            <tickerType>Normal</tickerType>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName = "sd_medieval_single_bed" or defName = "sd_prison_single_bed_LB" or defName = "sd_prison_single_bed_RT" or defName = "sd_hammock_single" or defName = "sd_industrial_single_bed" or defName = "sd_space_single_bed" or defName = "sd_cryo_single_bed"]</xpath>
+          <value>
+            <comps>
+              <li Class="SoftWarmBeds.CompProperties_MakeableBed">
+                <!--<blanketDef>SingleBlanket</blanketDef>-->
+                <beddingDef>SingleBedding</beddingDef>
+              </li>
+            </comps>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName = "sd_medieval_double_bed" or defName = "sd_industrial_double_bed" or defName = "sd_hammock_double" or defName = "sd_heart_double_bed" or defName = "sd_space_double_bed" or defName = "sd_cryo_double_bed"]</xpath>
+          <value>
+            <comps>
+              <li Class="SoftWarmBeds.CompProperties_MakeableBed">
+                <!--<blanketDef>SingleBlanket</blanketDef>-->
+                <beddingDef>DoubleBedding</beddingDef>
+              </li>
+            </comps>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "sd_medieval_single_bed" or defName = "sd_prison_single_bed_LB" or defName = "sd_prison_single_bed_RT" or defName = "sd_hammock_single" or defName = "sd_industrial_single_bed" or defName = "sd_space_single_bed" or defName = "sd_cryo_single_bed" or defName = "sd_medieval_double_bed" or defName = "sd_hammock_double" or defName = "sd_industrial_double_bed" or defName = "sd_heart_double_bed" or defName = "sd_space_double_bed" or defName = "sd_cryo_double_bed"]/statBases/BedRestEffectiveness</xpath>
+          <value>
+            <BedRestEffectiveness>0.7</BedRestEffectiveness>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "sd_medieval_single_bed" or defName = "sd_prison_single_bed_LB" or defName = "sd_prison_single_bed_RT" or defName = "sd_hammock_single" or defName = "sd_industrial_single_bed" or defName = "sd_space_single_bed" or defName = "sd_cryo_single_bed" or defName = "sd_medieval_double_bed" or defName = "sd_hammock_double" or defName = "sd_industrial_double_bed" or defName = "sd_heart_double_bed" or defName = "sd_space_double_bed" or defName = "sd_cryo_double_bed"]/statBases/Comfort</xpath>
+          <value>
+            <Comfort>0.3</Comfort>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <!--================================ space double bed ======================================-->
-
   <ThingDef ParentName="SDGoodnightBedBase">
     <defName>sd_space_double_bed</defName>
     <label>space double bed</label>
@@ -10,7 +8,7 @@
     <graphicData>
       <texPath>sd_goodnight/spacer/double/sd_goodnight_spacer_double_bed</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-	  <shaderType>CutoutComplex</shaderType>
+      <shaderType>CutoutComplex</shaderType>
       <drawSize>(4,4)</drawSize>
       <damageData>
         <rect>(0,0.05,2,1.95)</rect>
@@ -20,34 +18,32 @@
       <MaxHitPoints>300</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <WorkToBuild>4000</WorkToBuild>
-	  <Mass>110</Mass>
+      <Mass>110</Mass>
       <Beauty>15</Beauty>
       <BedRestEffectiveness>1.25</BedRestEffectiveness>
       <Comfort>0.90</Comfort>
       <ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
     </statBases>
     <size>(2,2)</size>
-	<stuffCategories>
+    <stuffCategories>
       <li>Metallic</li>
     </stuffCategories>
     <costStuffCount>50</costStuffCount>
-	<costList>
-		<Steel>50</Steel>
-		<Plasteel>5</Plasteel>
-		<Cloth>25</Cloth>
-		<ComponentSpacer>2</ComponentSpacer>
+    <costList>
+      <Steel>50</Steel>
+      <Plasteel>5</Plasteel>
+      <Cloth>25</Cloth>
+      <ComponentSpacer>2</ComponentSpacer>
     </costList>
-	<researchPrerequisites>
-		<li>sd_goodnight_research_spacer_beds</li>
-	</researchPrerequisites>
-	<building>
+    <researchPrerequisites>
+      <li>sd_goodnight_research_spacer_beds</li>
+    </researchPrerequisites>
+    <building>
       <bed_healPerDay>7</bed_healPerDay>
     </building>
-	<constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
   </ThingDef>
-    
   <!--================================ cryo double bed ======================================-->
-  
   <ThingDef ParentName="SDGoodnightBedBase">
     <defName>sd_cryo_double_bed</defName>
     <label>crypto double bed</label>
@@ -55,7 +51,7 @@
     <graphicData>
       <texPath>sd_goodnight/spacer/double/sd_goodnight_spacer_cryo_double_bed</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-	  <shaderType>CutoutComplex</shaderType>
+      <shaderType>CutoutComplex</shaderType>
       <drawSize>(4,4)</drawSize>
       <damageData>
         <rect>(0,0.05,2,1.95)</rect>
@@ -65,30 +61,29 @@
       <MaxHitPoints>300</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <WorkToBuild>4000</WorkToBuild>
-	  <Mass>110</Mass>
+      <Mass>110</Mass>
       <Beauty>15</Beauty>
       <BedRestEffectiveness>1.3</BedRestEffectiveness>
       <Comfort>0.90</Comfort>
       <ImmunityGainSpeedFactor>1.2</ImmunityGainSpeedFactor>
     </statBases>
     <size>(2,2)</size>
-	<stuffCategories>
+    <stuffCategories>
       <li>Metallic</li>
     </stuffCategories>
     <costStuffCount>50</costStuffCount>
-	<costList>
-		<Steel>50</Steel>
-		<Plasteel>10</Plasteel>
-		<MedicineUltratech>1</MedicineUltratech>
-		<ComponentSpacer>2</ComponentSpacer>
+    <costList>
+      <Steel>50</Steel>
+      <Plasteel>10</Plasteel>
+      <MedicineUltratech>1</MedicineUltratech>
+      <ComponentSpacer>2</ComponentSpacer>
     </costList>
-	<researchPrerequisites>
-		<li>sd_goodnight_research_spacer_beds</li>
-	</researchPrerequisites>
-	<building>
+    <researchPrerequisites>
+      <li>sd_goodnight_research_spacer_beds</li>
+    </researchPrerequisites>
+    <building>
       <bed_healPerDay>7</bed_healPerDay>
     </building>
-	<constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
   </ThingDef>
-  
 </Defs>
