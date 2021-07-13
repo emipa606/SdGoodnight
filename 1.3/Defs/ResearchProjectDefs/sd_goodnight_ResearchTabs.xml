@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
+<Defs>
   <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
-
-  <sd_goodnight_ResearchTab.label>[sd]goodnight</sd_goodnight_ResearchTab.label>
-
-
-</LanguageData>
+  <ResearchTabDef>
+    <defName>sd_goodnight_ResearchTab</defName>
+    <label>[sd]goodnight</label>
+  </ResearchTabDef>
+</Defs>
