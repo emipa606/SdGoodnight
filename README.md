@@ -1,28 +1,19 @@
 # SdGoodnight
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=763943290
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/SdGoodnight]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
 
-# &quot;goodnight&quot;
+# "goodnight"
 
 	
 	Your colony got the booze, but lacks places to snooze, fear not =)
@@ -38,7 +29,7 @@ not doing anymore updates for any rimworld mods, please feel free to update and 
 # Details:
 
 
-you can change the color of the medieval+ industrial beds depending on the fabric/leather you use. the prisoner bed changes color depending on the stone/wood/metal used to build. spacer beds can&apos;t be changed colorwise.
+you can change the color of the medieval+ industrial beds depending on the fabric/leather you use. the prisoner bed changes color depending on the stone/wood/metal used to build. spacer beds can't be changed colorwise.
 
 the rest effectiveness of the beds is a bit higher then vanilla with each tier (1,1 - 1,2 -1,3). that should reflect the need to research them (with the best bed in legendary quality your colonists will still need around 6hours of sleep). tried to balance out the costs a bit too. will probably need some tweaks there. the last tier of bed hast slightly increased immunity gain (1,2 compared to the 1,144 of the vanilla hospital beds). it needs glitterworld medizine to be build to balance this out.
 
@@ -46,7 +37,7 @@ as of alpha 16, added mass and the heal per day ticker. mass is set to 50/60/70 
 
 **research:**
 
-- pretty straight forward: medieval beds -&gt; industrial beds -&gt; space beds
+- pretty straight forward: medieval beds - industrial beds - space beds
 - space beds need cryptosleep caskets from the vanilla game as additional prerequisite
 
 # How to add other linkable buildings/furniture like the vitalsmonitor to the mod?:
@@ -58,7 +49,7 @@ wrote a short explanation for that in the forum topic of this mod: https://ludeo
 
 **Compatibility:**
 
-the main mod version now includes the patches over patchoperations and mod load checker. So you don&apos;t need these anymore as extra mods. Let me know if want some compatibility added with specific mods.
+the main mod version now includes the patches over patchoperations and mod load checker. So you don't need these anymore as extra mods. Let me know if want some compatibility added with specific mods.
 
 so far it includes:
 https://ludeon.com/forums/index.php?topic=38010.msg389368#msg389368]CTS = makes the adv vitals monitor that comes with CTS linkable
@@ -67,7 +58,7 @@ https://ludeon.com/forums/index.php?topic=16977.0]More Furniture = makes beds fo
 
 *Ludeon forum topic:*
 https://ludeon.com/forums/index.php?topic=26276.0
-(has dropbox links,since steam don&apos;t seem to like them for soem reason -.-)
+(has dropbox links,since steam don't seem to like them for soem reason -.-)
 
 **Dropbox:**  https://www.dropbox.com/s/wve0kqx7flx4idp/sd_goodnight_v1.7z?dl=0
 
@@ -77,7 +68,7 @@ Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

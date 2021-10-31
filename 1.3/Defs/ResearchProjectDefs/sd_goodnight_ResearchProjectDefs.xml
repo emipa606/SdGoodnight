@@ -6,8 +6,8 @@
     <description>Not live like a king,but sleep like one.</description>
     <baseCost>200</baseCost>
     <techLevel>Medieval</techLevel>
-    <researchViewX>1</researchViewX>
-    <tab>sd_goodnight_ResearchTab</tab>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>4.90</researchViewY>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>sd_goodnight_research_industrial_beds</defName>
@@ -20,8 +20,8 @@
       <li>sd_goodnight_research_medieval_beds</li>
     </prerequisites>
     <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
-    <researchViewX>2</researchViewX>
-    <tab>sd_goodnight_ResearchTab</tab>
+    <researchViewX>12.00</researchViewX>
+    <researchViewY>3.20</researchViewY>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>sd_goodnight_research_spacer_beds</defName>
@@ -37,7 +37,7 @@
     <requiredResearchFacilities>
       <li>MultiAnalyzer</li>
     </requiredResearchFacilities>
-    <researchViewX>3</researchViewX>
-    <tab>sd_goodnight_ResearchTab</tab>
+    <researchViewX>15.00</researchViewX>
+    <researchViewY>2.90</researchViewY>
   </ResearchProjectDef>
 </Defs>
