@@ -1,5 +1,8 @@
 # Changelog for SdGoodnight
 
+1.3.1 - More unique defname for the HugLib-news base-definition, to avoid conflicts with other mods.
+
+
 1.0.8.0 - Removed the extra research tab as it just had 3 projects and had illegal characters in the label
 
 

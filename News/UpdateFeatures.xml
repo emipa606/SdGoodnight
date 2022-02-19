@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef Abstract="true" Name="SdGoodnight_UpdateFeatureBase">
     <modNameReadable>SdGoodnight</modNameReadable>
     <linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2019045154</linkUrl>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="SdGoodnight_UpdateFeatureBase">
     <defName>SdGoodnight_1_0_6_0</defName>
     <assemblyVersion>1.0.6.0</assemblyVersion>
     <content>All beds should now have some part that gets colored byt the type of bed, normal-prison-hospital-bed.
