@@ -1,5 +1,8 @@
 # Changelog for SdGoodnight
 
+1.3.3 - Russian translation added, thanks Dmitry6!
+
+
 1.3.2 - All beds should now be recognized by the sleep accelerator
 
 

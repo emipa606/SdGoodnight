@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- medieval Single bed -->
+  <sd_medieval_single_bed.label>средневековая односпальная кровать</sd_medieval_single_bed.label>
+  <sd_medieval_single_bed.description>Удобная кровать с мехом. Подходит для одного. Один из знаменитых охотников Rimworlds придумал этот дизайн кровати после того, как добыл свое сотое убийство Thrumbo. В попытке продемонстрировать свою гордость он разработал эту кровать. Его изобретательность в создании кровати распространилась быстрее, чем слова о его охоте на крупную дичь. Его имя было забыто. Но спустя годы его кровати живут, демонстрируя гордость охотников по всему Rimworlds.</sd_medieval_single_bed.description>
+  <!-- RT = right + top side in a square room,
+  where the top side is the side textures, couse of perspective,
+  and the right wall side is the front+back textures -->
+  <sd_prison_single_bed_RT.label>тюремная койка</sd_prison_single_bed_RT.label>
+  <sd_prison_single_bed_RT.description>Кровать на стене для ваших заключенных. Подходит только для одного. Не пожалели усилий, чтобы эта кровать выглядела так, будто вышла из самого темного глубокого подземелья. Минимум комфорта и твердая поверхность для сна позволят вашим пленникам не отвлекаться на более тонкие вещи своего пребывания. Это искусство хорошо известно среди средневековых лордов Rimworlds.</sd_prison_single_bed_RT.description>
+  <!-- LB = left + bottom side in a square room,
+  where the bottom side is the side textures, couse of perspective,
+  and the left wall side is the front+back textures -->
+  <sd_prison_single_bed_LB.label>тюремная койка LB</sd_prison_single_bed_LB.label>
+  <sd_prison_single_bed_LB.description>Кровать на стене для ваших заключенных. Подходит только для одного. Не пожалели усилий, чтобы эта кровать выглядела так, будто вышла из самого темного глубокого подземелья. Минимум комфорта и твердая поверхность для сна позволят вашим пленникам не отвлекаться на более тонкие вещи своего пребывания. Это искусство хорошо известно среди средневековых лордов Rimworlds.</sd_prison_single_bed_LB.description>
+</LanguageData>
