@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!--================================ patches for royalty ======================================-->
+  <!--========================= adding double beds =============================-->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Royalty</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_ThingAnyOf"]/things[li="DoubleBed"]</xpath>
+      <value>
+        <li>sd_medieval_double_bed</li>
+        <li>sd_hammock_double</li>
+        <li>sd_industrial_double_bed</li>
+        <li>sd_heart_double_bed</li>
+        <li>sd_space_double_bed</li>
+        <li>sd_cryo_double_bed</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>

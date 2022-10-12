@@ -5,6 +5,8 @@
 Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=763943290
 
+- Russian translation added, thanks Dmitry6!
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
@@ -78,6 +80,7 @@ Changelog in forumtopic or about folder of mod.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
