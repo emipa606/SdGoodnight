@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="LoftBed"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationInsert">
+          <xpath>Defs/ThingDef</xpath>
+          <value>
+            <ThingDef ParentName="LoftBed">
+              <defName>sd_medieval_single_bed_loftbed</defName>
+              <label>medieval single loft bed</label>
+              <description>A comfy loft-bed with fur. Fits one. One of the famous hunters of the Rimworlds came up with this bed design after claiming his 100th Thrumbo kill. In the attemp to display his pride he developed this bed. His ingenuity in bed building spread faster than the words from his big game hunt. His name was forgotten. But after years his beds live on showing the pride of hunters all over the Rimworlds.</description>
+              <graphicData>
+                <texPath>sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed</texPath>
+              </graphicData>
+              <statBases>
+                <MaxHitPoints>150</MaxHitPoints>
+                <Flammability>1.0</Flammability>
+                <Mass>50</Mass>
+                <Beauty>2</Beauty>
+                <BedRestEffectiveness>0.9</BedRestEffectiveness>
+                <Comfort>0.60</Comfort>
+              </statBases>
+              <stuffCategories Inherit="False">
+                <li>Fabric</li>
+                <li>Leathery</li>
+              </stuffCategories>
+              <costStuffCount>25</costStuffCount>
+              <costList Inherit="False">
+                <WoodLog>25</WoodLog>
+              </costList>
+              <uiIconPath>sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_MenuIcon</uiIconPath>
+              <researchPrerequisites>
+                <li>sd_goodnight_research_medieval_beds</li>
+              </researchPrerequisites>
+              <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+            </ThingDef>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

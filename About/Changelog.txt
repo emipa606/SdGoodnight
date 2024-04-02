@@ -1,5 +1,8 @@
 # Changelog for SdGoodnight
 
+1.5.0 - Mod updated for 1.5 and passed autotests
+
+
 1.4.2 - Added a loft-version of the medieval single bed if [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299]Loft Bed[/url] is loaded
 
 

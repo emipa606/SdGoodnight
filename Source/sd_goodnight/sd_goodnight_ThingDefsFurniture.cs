@@ -5,11 +5,11 @@ namespace sd_goodnight;
 
 internal class sd_goodnight_ThingDefsFurniture : ThingDef
 {
-    public string MedicalBedTexture = "";
+    public readonly string MedicalBedTexture = "";
 
-    public string MedicalPrisonerBedTexture = "";
+    public readonly string MedicalPrisonerBedTexture = "";
 
-    public string PrisonerBedTexture = "";
+    public readonly string PrisonerBedTexture = "";
 
-    public List<string> RandomBedTex = new List<string>();
+    public readonly List<string> RandomBedTex = [];
 }
