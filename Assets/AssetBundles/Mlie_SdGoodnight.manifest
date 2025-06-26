@@ -1,0 +1,104 @@
+ManifestFileVersion: 0
+CRC: 2140873076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16fc15d8cd3a7304f050d426031418ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 16fc15d8cd3a7304f050d426031418ff
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_single_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_cryo_single_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_hammock_double_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_hammock_double_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_cryo_single_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_cryo_double_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_single_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/double/sd_goodnight_medieval_double_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonRT/sd_goodnight_medieval_prison_single_bed_RT_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonLB/sd_goodnight_medieval_prison_single_bed_LB_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_hammock_double_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_single_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_hammock_single_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonLB/sd_goodnight_medieval_prison_single_bed_LB_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_double_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_cryo_double_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_double_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_cryo_double_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_double_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_single_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/double/sd_goodnight_medieval_double_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/sd_goodnight_medieval_single_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_heart_double_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_double_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/double/sd_goodnight_medieval_double_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_MenuIcon.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_cryo_single_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_heart_double_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/double/sd_goodnight_medieval_double_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_hammock_single_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_single_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonLB/sd_goodnight_medieval_prison_single_bed_LB_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonRT/sd_goodnight_medieval_prison_single_bed_RT_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_hammock_single_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/sd_goodnight_medieval_single_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_single_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_heart_double_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_double_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_double_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_double_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_single_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_cryo_single_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_heart_double_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonRT/sd_goodnight_medieval_prison_single_bed_RT_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/double/sd_goodnight_medieval_double_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_hammock_single_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_double_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonRT/sd_goodnight_medieval_prison_single_bed_RT_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_hammock_single_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonLB/sd_goodnight_medieval_prison_single_bed_LB_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_cryo_single_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_cryo_double_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_double_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/double/sd_goodnight_medieval_double_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/sd_goodnight_medieval_single_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_double_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_cryo_single_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/sd_goodnight_medieval_single_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_single_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_hammock_single_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_heart_double_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/sd_goodnight_medieval_single_bed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_cryo_double_bed_east.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_hammock_double_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_double_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_single_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonRT/sd_goodnight_medieval_prison_single_bed_RT_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonLB/sd_goodnight_medieval_prison_single_bed_LB_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonRT/sd_goodnight_medieval_prison_single_bed_RT_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_single_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_double_bed_south.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_heart_double_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/double/sd_goodnight_spacer_cryo_double_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/sd_goodnight_medieval_single_bed_eastm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/loft/sd_goodnight_medieval_single_bed_LoftBed_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/spacer/single/sd_goodnight_spacer_single_bed_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/single/sd_goodnight_industrial_single_bed_north.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_hammock_double_northm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/industrial/double/sd_goodnight_industrial_hammock_double_southm.png
+- Assets/Data/Mlie.SdGoodnight/Textures/sd_goodnight/medieval/single/prisonLB/sd_goodnight_medieval_prison_single_bed_LB_eastm.png
+Dependencies: []

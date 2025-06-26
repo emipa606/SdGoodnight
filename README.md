@@ -1,4 +1,4 @@
-# SdGoodnight
+# [[sd] Goodnight (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2019045154)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,13 +6,11 @@ Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=763943290
 
 - Russian translation added, thanks Dmitry6!
-- Added a loft-version of the medieval single bed if https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299]Loft Bed is loaded
+- Added a loft-version of the medieval single bed if [Loft Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299) is loaded
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
 
@@ -55,9 +53,9 @@ wrote a short explanation for that in the forum topic of this mod: https://ludeo
 the main mod version now includes the patches over patchoperations and mod load checker. So you don't need these anymore as extra mods. Let me know if want some compatibility added with specific mods.
 
 so far it includes:
-https://ludeon.com/forums/index.php?topic=38010.msg389368#msg389368]CTS = makes the adv vitals monitor that comes with CTS linkable
-https://ludeon.com/forums/index.php?topic=26276.msg273452#msg273452][sd]medicaddons = makes all beds form goodnight linkable with the medic stuff in the addons mod
-https://ludeon.com/forums/index.php?topic=16977.0]More Furniture = makes beds form goodnight link with linkable stuff from furniture, like endtable, dresser etc.
+[CTS](https://ludeon.com/forums/index.php?topic=38010.msg389368#msg389368) = makes the adv vitals monitor that comes with CTS linkable
+[[sd]medicaddons](https://ludeon.com/forums/index.php?topic=26276.msg273452#msg273452) = makes all beds form goodnight linkable with the medic stuff in the addons mod
+[More Furniture](https://ludeon.com/forums/index.php?topic=16977.0) = makes beds form goodnight link with linkable stuff from furniture, like endtable, dresser etc.
 
 *Ludeon forum topic:*
 https://ludeon.com/forums/index.php?topic=26276.0
@@ -77,13 +75,12 @@ Changelog in forumtopic or about folder of mod.
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2019045154]![Image](https://img.shields.io/github/v/release/emipa606/SdGoodnight?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/SdGoodnight?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2019045154) | tags: beds,  research

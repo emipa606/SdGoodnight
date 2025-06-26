@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: single hammock -->
+  <sd_hammock_single.label>single hammock</sd_hammock_single.label>
+  <!-- EN: A sling made of fabric used for sleeping. Fits one. The hammock is widly used by native tribes all over the Rimworlds. It's use to sleep save above the ground was recognized by explorers. Soon after it quickly became a must have in every ground crews inventory. Although on some planets it proved difficult to sleep in, due to low gravity. This lead to many funny storys of poeple floating away from their hammocks or getting entangled during the sleep. -->
+  <sd_hammock_single.description>A sling made of fabric used for sleeping. Fits one. The hammock is widly used by native tribes all over the Rimworlds. It's use to sleep save above the ground was recognized by explorers. Soon after it quickly became a must have in every ground crews inventory. Although on some planets it proved difficult to sleep in, due to low gravity. This lead to many funny storys of poeple floating away from their hammocks or getting entangled during the sleep.</sd_hammock_single.description>
+  <!-- EN: industrial single bed -->
+  <sd_industrial_single_bed.label>industrial single bed</sd_industrial_single_bed.label>
+  <!-- EN: A comfy bed. Fits one. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed desgin emerged. -->
+  <sd_industrial_single_bed.description>A comfy bed. Fits one. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed desgin emerged.</sd_industrial_single_bed.description>
+</LanguageData>
