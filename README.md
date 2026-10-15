@@ -83,4 +83,4 @@ Changelog in forumtopic or about folder of mod.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/SdGoodnight?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2019045154) | tags: research, beds
+[![Image](https://img.shields.io/github/v/release/emipa606/SdGoodnight?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2019045154) | research, beds
